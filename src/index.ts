@@ -1,3 +1,5 @@
+import { Args } from "./types";
+
 function parseArgs(): Args {
   const args: Args = {};
 

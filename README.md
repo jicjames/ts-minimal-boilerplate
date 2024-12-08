@@ -2,5 +2,5 @@
 
 Minimal typescript node app.
 
-- Types: `src/types.d.ts`
+- Types: `src/types/index.ts`
 - Entry point: `src/index.ts`
